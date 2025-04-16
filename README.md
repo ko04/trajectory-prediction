@@ -18,9 +18,9 @@ This project implements a Transformer-based model to predict sensitive changes i
 - Transformer encoder with custom fusion of context vectors and target reward
 - Plotting of training/validation loss and per-sample predictions
 
-## 📦 Dependencies
+## How to run the file
 
-Install the following Python packages before running:
+Run the python file by calling:
 
 ```bash
 python change_sensitive.py
